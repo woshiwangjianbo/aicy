@@ -49,10 +49,4 @@ python main.py
   - `merge_image_channels` 合并多通道子图
   - `split_image_channels` 拆分多通道图的所有子图
 
-## 个人信息
-[TODO: 此处填写个人信息]
-- 学号: 202252320419
-- 年级: 2022
-- 专业: 智能科学与技术
-- 班级: 4 班
 
